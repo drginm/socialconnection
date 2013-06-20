@@ -1,2 +1,2 @@
-socialconnection
+Social Connection
 ================
